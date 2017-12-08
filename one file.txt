@@ -4,3 +4,4 @@ line added by Y
 another line added by y
 
 conflict line added by Y
+
